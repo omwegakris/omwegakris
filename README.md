@@ -3,7 +3,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omwegakris&layout=compact"/>
 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/ >
 
 <!---
 omwegakris/omwegakris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
